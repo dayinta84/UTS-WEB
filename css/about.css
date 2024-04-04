@@ -2,6 +2,8 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #dfdaff;
+    background: linear-gradient(to bottom, #7067f3, #b6c7e8);
+
 }
 
 header {
@@ -74,7 +76,7 @@ article h1 {
     font-size: 30px;
 }
 
-article img {
+section img {
     justify-content: right;
-    align-items: end;
+    display: flex;
 }

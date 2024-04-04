@@ -1,6 +1,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #4f44ec, #b6c7e8);
+
 }
 
 header {
@@ -79,7 +81,7 @@ section nav {
     align-items: center;
 }
 nav img {
-    height: 300px;
+    height: 400px;
     align-items: center;
-    margin-left: 70px;
+    margin-left: 1px;
 }

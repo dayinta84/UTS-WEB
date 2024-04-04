@@ -2,6 +2,8 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #dfdaff;
+    background-image: url(../../framework/gambar1/download\ \(1\).jpeg);
+    background-size: cover;
 }
 
 header {
@@ -68,6 +70,9 @@ section div {
     flex-direction: column;
     display: flex;
 }
+div .judul {
+    color: white;
+}
 
 article {
     flex: 1;
@@ -75,7 +80,9 @@ article {
     background-color: #cdc3fd;
     display: flex;
     align-items: center;
-    justify-content: space-around; 
+    justify-content: space-around;
+    background: linear-gradient(to right, #8c85f6, #b6c7e8);
+
 }
 article img {
     height: 300px;

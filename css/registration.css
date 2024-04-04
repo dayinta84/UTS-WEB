@@ -1,7 +1,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #dfdaff;;
+    background: linear-gradient(to bottom, #6258ed, #b0c7f6);
+
 }
 
 header {
@@ -84,7 +85,7 @@ input[type="file"] {
 }
 /* Center Form */
 #content {
-    width: 90%;
+    width: 60%;
     margin: 20px auto;
     text-align: left;
     border: 1px solid #ccc; /* Kotak */
