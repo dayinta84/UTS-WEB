@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url(../../framework/gambar1/download\ \(1\).jpeg);
+    background-image: url(../gambar/wpp.jpeg);
     background-size: cover;
 }
 
@@ -88,11 +88,11 @@ div .menu-toggle {
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 4px;
-    border: 1px solid #ccc;
+    border: 1px solid #1e0b0b;
 }
 .login-container form button {
     padding: 10px;
-    background-color: dodgerblue;
+    background-color: rgb(80, 175, 252);
     color: white;
     border: none;
     border-radius: 4px;

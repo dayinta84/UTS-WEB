@@ -3,7 +3,6 @@ body {
     font-family: Arial, sans-serif;
     background-color: #dfdaff;
     background: linear-gradient(to bottom, #7067f3, #b6c7e8);
-
 }
 
 header {
@@ -76,7 +75,7 @@ article h1 {
     font-size: 30px;
 }
 
-section img {
+img {
     justify-content: right;
     display: flex;
 }
